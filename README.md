@@ -1,5 +1,4 @@
 # FraseDoDia
  App que gera uma frase positiva para motivar o usuario em momentos dificeis
 
-
-<a href = https://github.com/Rafael-720/FrasesDoDia/blob/main/Screenshot_20230220_202804.png?raw=true/>
+<img src="https://user-images.githubusercontent.com/81588977/220213459-64b55e19-7638-4b98-bf67-c57b7240b3ef.png" width="400px"/>
